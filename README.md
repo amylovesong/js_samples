@@ -1,1 +1,1 @@
-# js_samples
+# JavaScript 教程学习
